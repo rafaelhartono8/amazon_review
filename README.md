@@ -10,14 +10,14 @@
 https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
 
 ## Insight & Findings 
-**Untuk Pembeli :**
+###**Untuk Pembeli :**
 1. Dari 7 produk yang ditemukan ada 3 yang di  rekomendasikan untuk dibeli
    ![image](https://github.com/user-attachments/assets/5169791f-6283-4f07-a5f7-4ffca780f177)
 
 2. Berikut peta persebaran tingkat rekomendasi berdasarkan tiap produk
   ![image](https://github.com/user-attachments/assets/e8ac2ab9-bf3c-48b9-89be-97c7d3b4246d)
    
-**Untuk Penjual : **
+###**Untuk Penjual :**
   1. 3 dari 7 produk perlu di tinjau kembali untuk meningkatkan penjualan
     ![image](https://github.com/user-attachments/assets/2308a689-3984-4435-8ff7-3a61915f48af)
 
